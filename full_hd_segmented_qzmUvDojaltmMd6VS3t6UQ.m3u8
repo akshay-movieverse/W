@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.905900,
-/full_hd_segmented_000.ts
+full_hd_segmented_000.ts
 #EXTINF:3.937267,
-/full_hd_segmented_001.ts
+full_hd_segmented_001.ts
 #EXTINF:3.937267,
-/full_hd_segmented_002.ts
+full_hd_segmented_002.ts
 #EXTINF:3.937267,
-/full_hd_segmented_003.ts
+full_hd_segmented_003.ts
 #EXT-X-ENDLIST
