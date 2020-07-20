@@ -3,13 +3,13 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.905900,
-https://github.com/akshay-movieverse/W/raw/master/full_hd_segmented_000.ts
+/full_hd_segmented_000.ts
 #EXTINF:3.937267,
-https://github.com/akshay-movieverse/W/raw/master/full_hd_segmented_001.ts
+/full_hd_segmented_001.ts
 #EXTINF:3.937267,
-https://github.com/akshay-movieverse/W/raw/master/full_hd_segmented_002.ts
+/full_hd_segmented_002.ts
 #EXTINF:3.937267,
-https://github.com/akshay-movieverse/W/raw/master/full_hd_segmented_003.ts
+/full_hd_segmented_003.ts
 #EXTINF:3.937267,
 full_hd_segmented_004.ts
 #EXTINF:3.937267,
